@@ -7,7 +7,9 @@ package pbo10119042latihan55;
 
 /**
  *
- * @author Stks
+ *  @author Muhammad Rifqu Abdillah
+ * Kelas : IF-1
+ * NIM   : 10119042
  */
 public class Android extends Handphone {
     private String keyStore;
